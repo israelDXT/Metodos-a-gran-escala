@@ -24,8 +24,8 @@ Para ejecutar este proyecto, necesitas:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/estimacion-precios-bienes-raices.git
-   cd estimacion-precios-bienes-raices
+   git clone https://github.com/israelDXT/Metodos-a-gran-escala.git
+   cd Estimación-precios
    ```
 
 2. Instala las dependencias:
@@ -51,10 +51,4 @@ Para ejecutar este proyecto, necesitas:
     ```
 ## Estructura del Proyecto
 
-estimacion-precios-bienes-raices/
-├── notebooks/               # Carpeta para los notebooks
-│   └── modelo.py            # Notebook principal
-├── requirements.txt         # Dependencias del proyecto
-├── README.md                # Este archivo
-└── diagrams/                # Diagramas del flujo de trabajo
-    └── workflow.png         # Diagrama del flujo de trabajo
+Ubicado en diagrams/workflow.png
